@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nadyafarchanaf, you can call me Nadya
-- 👀 I’m interested in Testing Automation, Mobile Development
-- 🌱 I’m currently learning SwiftUI, Test Automation Tools, etc
-- 💞️ I’m looking to collaborate on SwiftUI or mobile development project
+- 👀 I’m interested in Testing Automation, Cyber Security
+- 🌱 I’m currently learning Test Automation Tools, Cyber Security, etc
 - 📫 How to reach me nadyafarchanaf@gmail.com, [LinkedIn](https://www.linkedin.com/in/nadyafarchanaf/)
 
 <!---
