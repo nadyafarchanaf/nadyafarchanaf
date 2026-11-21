@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nadyafarchanaf, you can call me Nadya
-- 👀 I’m interested in Testing Automation, Cyber Security
-- 🌱 I’m currently learning Test Automation Tools, Cyber Security, etc
+- 👋 Hi, you can call me Nadya
+- 👀 I’m interested in Cyber Security and Test Automation
+- 🌱 I’m ex - Test Automation Engineer on progress to switch career to Cyber Security
 - 📫 How to reach me nadyafarchanaf@gmail.com, [LinkedIn](https://www.linkedin.com/in/nadyafarchanaf/)
 
 <!---
